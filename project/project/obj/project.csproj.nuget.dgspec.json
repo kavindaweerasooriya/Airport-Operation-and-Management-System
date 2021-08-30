@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\source\\repos\\project\\project\\project.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\project\\project\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\source\\repos\\project\\project\\project.csproj": {
+    "C:\\Users\\Acer\\Desktop\\project\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\project\\project\\project.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\project\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\Acer\\source\\repos\\project\\project\\project.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\project\\project\\project.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\source\\repos\\project\\project\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\project\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

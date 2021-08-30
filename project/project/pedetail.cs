@@ -56,7 +56,7 @@ namespace project
             }
 
             Regex flight = new Regex("^[1-9]{5}");
-            bool flightno = flight.IsMatch(seatnotxt.Text);
+            bool flightno = flight.IsMatch(flightnotxt.Text);
             if (!flightno)
             {
                 MessageBox.Show("Invalid flight no");
