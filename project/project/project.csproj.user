@@ -1,7 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="Admin_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Emergency_Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="pedetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Travel_with_Covid_19_FAQ_s.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="welcome.cs">

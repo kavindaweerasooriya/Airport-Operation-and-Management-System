@@ -76,6 +76,10 @@ namespace project
                 MessageBox.Show("plese chek the details and tick");
             }
 
+            Form1 fm = new Form1();
+            this.Hide();
+            fm.Show();
+
 
         }
 
