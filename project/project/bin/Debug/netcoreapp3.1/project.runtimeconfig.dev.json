@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\HP\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\HP\\.nuget\\packages"
+      "C:\\Users\\kavee\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kavee\\.nuget\\packages"
     ]
   }
 }

@@ -13,6 +13,21 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Cinnamongrandcolombo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Governmentcenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thekingsbury.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="shangrila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotelmainpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="pedetail.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -42,18 +42,20 @@ namespace project
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.textBox1);
-            this.panel1.Location = new System.Drawing.Point(96, 42);
+            this.panel1.Location = new System.Drawing.Point(84, 32);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(695, 429);
+            this.panel1.Size = new System.Drawing.Size(608, 322);
             this.panel1.TabIndex = 1;
             // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.button1.Font = new System.Drawing.Font("Britannic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(290, 360);
+            this.button1.Location = new System.Drawing.Point(254, 270);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(101, 34);
+            this.button1.Size = new System.Drawing.Size(88, 26);
             this.button1.TabIndex = 2;
             this.button1.Text = "BACK";
             this.button1.UseVisualStyleBackColor = false;
@@ -65,9 +67,9 @@ namespace project
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.SystemColors.Control;
-            this.label1.Location = new System.Drawing.Point(149, 34);
+            this.label1.Location = new System.Drawing.Point(130, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(360, 23);
+            this.label1.Size = new System.Drawing.Size(290, 18);
             this.label1.TabIndex = 1;
             this.label1.Text = "EMERGENCY CONTACT NUMBERS";
             // 
@@ -77,24 +79,26 @@ namespace project
             this.textBox1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.textBox1.Font = new System.Drawing.Font("Lucida Fax", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox1.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.textBox1.Location = new System.Drawing.Point(0, 79);
+            this.textBox1.Location = new System.Drawing.Point(0, 74);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(680, 255);
+            this.textBox1.Size = new System.Drawing.Size(596, 192);
             this.textBox1.TabIndex = 0;
             this.textBox1.TabStop = false;
             this.textBox1.Text = resources.GetString("textBox1.Text");
             // 
             // Emergency_Services
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(941, 538);
+            this.ClientSize = new System.Drawing.Size(823, 404);
             this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Emergency_Services";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

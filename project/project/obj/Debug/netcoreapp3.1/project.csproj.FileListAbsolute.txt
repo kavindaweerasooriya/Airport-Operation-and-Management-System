@@ -114,3 +114,40 @@ C:\Users\HP\Desktop\Random shit\new\project\project\obj\Debug\netcoreapp3.1\agq\
 C:\Users\HP\Desktop\Random shit\new\project\project\obj\Debug\netcoreapp3.1\project.dll
 C:\Users\HP\Desktop\Random shit\new\project\project\obj\Debug\netcoreapp3.1\project.pdb
 C:\Users\HP\Desktop\Random shit\new\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\af-NA\project.resources.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\af-ZA\project.resources.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\bin\Debug\netcoreapp3.1\agq\project.resources.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.csproj.AssemblyReference.cache
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Admin_Page.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Database.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Emergency_Services.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Form1.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.pedetail.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Properties.Resources.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Travel_with_Covid_19_FAQ_s.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.welcome.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.welcome.af-NA.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.welcome.af-ZA.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.welcome.agq.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.csproj.GenerateResource.cache
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\af-NA\project.resources.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\af-ZA\project.resources.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\agq\project.resources.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Hotelmainpage.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Cinnamongrandcolombo.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Governmentcenter.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.shangrila.resources
+C:\Users\kavee\Desktop\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\project\project\obj\Debug\netcoreapp3.1\project.Thekingsbury.resources
