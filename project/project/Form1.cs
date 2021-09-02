@@ -39,7 +39,9 @@ namespace project
 
         private void lblclosing_Click(object sender, EventArgs e)
         {
-            this.Dispose();
+            welcome f_page = new welcome();
+            this.Hide();
+            f_page.Show();
         }
 
         private void button3_Click_1(object sender, EventArgs e)

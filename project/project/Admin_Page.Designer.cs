@@ -103,15 +103,17 @@ namespace project
             // 
             // txtpwrd
             // 
-            this.txtpwrd.Font = new System.Drawing.Font("Lucida Bright", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtpwrd.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtpwrd.Location = new System.Drawing.Point(271, 148);
             this.txtpwrd.Name = "txtpwrd";
-            this.txtpwrd.Size = new System.Drawing.Size(189, 35);
+            this.txtpwrd.PasswordChar = '*';
+            this.txtpwrd.Size = new System.Drawing.Size(189, 30);
             this.txtpwrd.TabIndex = 3;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(126, 154);
             this.label2.Name = "label2";
@@ -122,6 +124,7 @@ namespace project
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(59, 102);
             this.label1.Name = "label1";
@@ -131,10 +134,10 @@ namespace project
             // 
             // txtname
             // 
-            this.txtname.Font = new System.Drawing.Font("Lucida Bright", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtname.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtname.Location = new System.Drawing.Point(271, 96);
             this.txtname.Name = "txtname";
-            this.txtname.Size = new System.Drawing.Size(189, 35);
+            this.txtname.Size = new System.Drawing.Size(189, 30);
             this.txtname.TabIndex = 1;
             // 
             // Admin_Page

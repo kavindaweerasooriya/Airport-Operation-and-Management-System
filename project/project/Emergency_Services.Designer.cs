@@ -49,13 +49,14 @@ namespace project
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.button1.Font = new System.Drawing.Font("Britannic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button1.Location = new System.Drawing.Point(290, 360);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(101, 34);
             this.button1.TabIndex = 2;
             this.button1.Text = "BACK";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
@@ -63,6 +64,7 @@ namespace project
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Lucida Fax", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.SystemColors.Control;
             this.label1.Location = new System.Drawing.Point(149, 34);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(360, 23);
@@ -78,9 +80,11 @@ namespace project
             this.textBox1.Location = new System.Drawing.Point(0, 79);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBox1.Size = new System.Drawing.Size(680, 255);
             this.textBox1.TabIndex = 0;
+            this.textBox1.TabStop = false;
             this.textBox1.Text = resources.GetString("textBox1.Text");
             // 
             // Emergency_Services
@@ -92,7 +96,6 @@ namespace project
             this.ClientSize = new System.Drawing.Size(941, 538);
             this.Controls.Add(this.panel1);
             this.Name = "Emergency_Services";
-            this.Text = "Emergency_Services";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

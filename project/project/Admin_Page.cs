@@ -13,7 +13,7 @@ namespace project
         public Admin_Page()
         {
             InitializeComponent();
-            panel1.BackColor = Color.FromArgb(130, Color.Black);
+            panel1.BackColor = Color.FromArgb(130, Color.White);
         }
 
         Database db = new Database();
@@ -42,11 +42,8 @@ namespace project
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string e_name = txtname.Text;
-            string password = txtpwrd.Text;
-
-            e_name = "";
-            password = "";
+            txtname.Clear();
+            txtpwrd.Clear();
         }
     }
 }
