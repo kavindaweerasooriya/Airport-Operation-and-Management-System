@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kavee\\Desktop\\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\\project\\project\\project.csproj": {}
+    "C:\\Users\\HP\\Desktop\\kaveesh\\project\\project\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kavee\\Desktop\\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\\project\\project\\project.csproj": {
+    "C:\\Users\\HP\\Desktop\\kaveesh\\project\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kavee\\Desktop\\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\\project\\project\\project.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\kaveesh\\project\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\kavee\\Desktop\\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\\project\\project\\project.csproj",
-        "packagesPath": "C:\\Users\\kavee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kavee\\Desktop\\Airport-Operations-and-Management-Systems-with-New-Normal-Covid-19\\project\\project\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\kaveesh\\project\\project\\project.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\kaveesh\\project\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kavee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

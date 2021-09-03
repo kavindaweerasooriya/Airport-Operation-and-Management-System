@@ -76,9 +76,9 @@ namespace project
                 MessageBox.Show("plese chek the details and tick");
             }
 
-            Form1 fm = new Form1();
+            Hotelmainpage hotel_page = new Hotelmainpage();
             this.Hide();
-            fm.Show();
+            hotel_page.Show();
 
 
         }

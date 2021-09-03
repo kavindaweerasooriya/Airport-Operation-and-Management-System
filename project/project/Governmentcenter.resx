@@ -57,8 +57,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Quarantine Unit of Ministry of Health is the main Government body responsible in maintaining border health security in Sri Lanka through protection, prevention and control of international spread of diseases and other public health risks while avoiding unnecessary interference with international Traffic and Trade. Quarantine Unit of Ministry of Health works with several government and non-government bodies to fulfill this task effectively and efficiently.</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="panel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEAYABgAAD/4QCuRXhpZgAATU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAZKG
         AAcAAAB6AAAALAAAAABVTklDT0RFAABDAFIARQBBAFQATwBSADoAIABnAGQALQBqAHAAZQBnACAAdgAx
@@ -1231,8 +1234,5 @@
         iitobES3KlnI8un2rudzGIEk9TUyHII446UUVoQP7CoZeVNFFCBmVOoCnjuazp0BHTviiimMx7tAR0rL
         cYbiiipkVEtQOcDmtC2Y9OxJ4oooQnuattI4lCA8YzWkCcdaKKok/9k=
 </value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>Quarantine Unit of Ministry of Health is the main Government body responsible in maintaining border health security in Sri Lanka through protection, prevention and control of international spread of diseases and other public health risks while avoiding unnecessary interference with international Traffic and Trade. Quarantine Unit of Ministry of Health works with several government and non-government bodies to fulfill this task effectively and efficiently.</value>
   </data>
 </root>

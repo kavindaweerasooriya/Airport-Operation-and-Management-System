@@ -14,5 +14,12 @@ namespace project
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Hotelmainpage hotel_page = new Hotelmainpage();
+            this.Hide();
+            hotel_page.Show();
+        }
     }
 }

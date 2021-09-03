@@ -57,8 +57,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Savour your penchant for finer comforts. Partner with sheer luxury at Cinnamon Grand, as you attend a business event in the capital city. Let the opulence of our meeting rooms and conference halls seep into flourishing work partnerships. Raise a toast to all the success at our plush restaurants and taste jubilance like never before. When you’ve enjoyed every bit of your Grand accomplishments, retire to your room, and relish the exquisite comforts that Colombo’s most lavish business hotel has to offer.</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="panel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAnsAAAGQCAYAAADWX6ZLAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
         wwAADsMBx2+oZAAA/7JJREFUeF7c/deXJMl2nwv2f3Zf53HWmod5mbW4Zji8GB7dR7buLq21yspKrUVl
@@ -9265,8 +9268,5 @@
         rLOjNeaxjjJN4d47OYnPBTYPt5Up6C0KcC41VmK+tlTArhVXR3twZagDhwTEF+tYy9cg30cbtn4cpfxX
         eR7mq4oEVKtwbaQHJ9vqMV2ai/8flUDZg0IBZNgAAAAASUVORK5CYII=
 </value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>Savour your penchant for finer comforts. Partner with sheer luxury at Cinnamon Grand, as you attend a business event in the capital city. Let the opulence of our meeting rooms and conference halls seep into flourishing work partnerships. Raise a toast to all the success at our plush restaurants and taste jubilance like never before. When you’ve enjoyed every bit of your Grand accomplishments, retire to your room, and relish the exquisite comforts that Colombo’s most lavish business hotel has to offer.</value>
   </data>
 </root>
