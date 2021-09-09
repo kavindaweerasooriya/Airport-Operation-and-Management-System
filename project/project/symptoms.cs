@@ -40,5 +40,19 @@ namespace project
                 }
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            pedetail p_page = new pedetail();
+            this.Hide();
+            p_page.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Hotelmainpage hotels = new Hotelmainpage();
+            this.Hide();
+            hotels.Show();
+        }
     }
 }

@@ -17,9 +17,9 @@ namespace project
 
         private void button5_Click(object sender, EventArgs e)
         {
-            pedetail personal_details = new pedetail();
+            symptoms sym = new symptoms();
             this.Hide();
-            personal_details.Show();
+            sym.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)

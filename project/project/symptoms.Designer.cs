@@ -85,7 +85,7 @@ namespace project
             this.label1.Location = new System.Drawing.Point(236, 32);
             this.label1.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(133, 29);
+            this.label1.Size = new System.Drawing.Size(169, 37);
             this.label1.TabIndex = 0;
             this.label1.Text = "Symptoms";
             // 
@@ -96,7 +96,7 @@ namespace project
             this.label2.ForeColor = System.Drawing.Color.Lime;
             this.label2.Location = new System.Drawing.Point(27, 76);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(250, 21);
+            this.label2.Size = new System.Drawing.Size(312, 27);
             this.label2.TabIndex = 1;
             this.label2.Text = "Most common symptoms";
             // 
@@ -106,7 +106,7 @@ namespace project
             this.label3.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(27, 114);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(51, 28);
+            this.label3.Size = new System.Drawing.Size(65, 35);
             this.label3.TabIndex = 2;
             this.label3.Text = "Fever";
             // 
@@ -116,7 +116,7 @@ namespace project
             this.label4.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label4.Location = new System.Drawing.Point(27, 170);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(83, 28);
+            this.label4.Size = new System.Drawing.Size(105, 35);
             this.label4.TabIndex = 3;
             this.label4.Text = "Tiredness";
             // 
@@ -126,7 +126,7 @@ namespace project
             this.label5.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label5.Location = new System.Drawing.Point(27, 142);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(91, 28);
+            this.label5.Size = new System.Drawing.Size(113, 35);
             this.label5.TabIndex = 4;
             this.label5.Text = "Dry Cough";
             // 
@@ -137,7 +137,7 @@ namespace project
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.label6.Location = new System.Drawing.Point(27, 217);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(250, 21);
+            this.label6.Size = new System.Drawing.Size(312, 27);
             this.label6.TabIndex = 5;
             this.label6.Text = "Less common symptoms";
             // 
@@ -147,7 +147,7 @@ namespace project
             this.label7.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label7.Location = new System.Drawing.Point(27, 250);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(128, 28);
+            this.label7.Size = new System.Drawing.Size(161, 35);
             this.label7.TabIndex = 6;
             this.label7.Text = "Aches and pains";
             // 
@@ -157,7 +157,7 @@ namespace project
             this.label8.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label8.Location = new System.Drawing.Point(27, 278);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(95, 28);
+            this.label8.Size = new System.Drawing.Size(118, 35);
             this.label8.TabIndex = 7;
             this.label8.Text = "Sore throat";
             this.label8.Click += new System.EventHandler(this.label8_Click);
@@ -168,7 +168,7 @@ namespace project
             this.label9.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label9.Location = new System.Drawing.Point(27, 306);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(86, 28);
+            this.label9.Size = new System.Drawing.Size(107, 35);
             this.label9.TabIndex = 8;
             this.label9.Text = "Diarrhoea";
             // 
@@ -178,7 +178,7 @@ namespace project
             this.label10.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label10.Location = new System.Drawing.Point(27, 334);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(114, 28);
+            this.label10.Size = new System.Drawing.Size(142, 35);
             this.label10.TabIndex = 9;
             this.label10.Text = "Conjunctivitis";
             // 
@@ -188,7 +188,7 @@ namespace project
             this.label11.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label11.Location = new System.Drawing.Point(27, 362);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(82, 28);
+            this.label11.Size = new System.Drawing.Size(104, 35);
             this.label11.TabIndex = 10;
             this.label11.Text = "Headache";
             // 
@@ -198,7 +198,7 @@ namespace project
             this.label12.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label12.Location = new System.Drawing.Point(27, 390);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(163, 28);
+            this.label12.Size = new System.Drawing.Size(207, 35);
             this.label12.TabIndex = 11;
             this.label12.Text = "Loss of taste or smell";
             // 
@@ -208,7 +208,7 @@ namespace project
             this.label13.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label13.Location = new System.Drawing.Point(27, 418);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(375, 28);
+            this.label13.Size = new System.Drawing.Size(469, 35);
             this.label13.TabIndex = 12;
             this.label13.Text = "A rash on skin, or discolouration of fingers or toes";
             // 
@@ -219,7 +219,7 @@ namespace project
             this.label15.ForeColor = System.Drawing.Color.Red;
             this.label15.Location = new System.Drawing.Point(27, 465);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(202, 21);
+            this.label15.Size = new System.Drawing.Size(252, 27);
             this.label15.TabIndex = 14;
             this.label15.Text = "Serious symptoms";
             this.label15.Click += new System.EventHandler(this.label15_Click);
@@ -230,7 +230,7 @@ namespace project
             this.label16.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label16.Location = new System.Drawing.Point(27, 496);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(326, 28);
+            this.label16.Size = new System.Drawing.Size(407, 35);
             this.label16.TabIndex = 15;
             this.label16.Text = "Difficulty Breathing or Shortness of  breath";
             this.label16.Click += new System.EventHandler(this.label16_Click);
@@ -241,7 +241,7 @@ namespace project
             this.label17.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label17.Location = new System.Drawing.Point(27, 524);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(176, 28);
+            this.label17.Size = new System.Drawing.Size(221, 35);
             this.label17.TabIndex = 16;
             this.label17.Text = "Chest pain or pressure";
             // 
@@ -251,7 +251,7 @@ namespace project
             this.label18.Font = new System.Drawing.Font("Sitka Banner", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label18.Location = new System.Drawing.Point(27, 552);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(218, 28);
+            this.label18.Size = new System.Drawing.Size(275, 35);
             this.label18.TabIndex = 17;
             this.label18.Text = "Loss of speech or movement";
             // 
@@ -261,7 +261,7 @@ namespace project
             this.checkBox1.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox1.Location = new System.Drawing.Point(196, 117);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(50, 27);
+            this.checkBox1.Size = new System.Drawing.Size(60, 33);
             this.checkBox1.TabIndex = 18;
             this.checkBox1.Text = "Yes";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -272,7 +272,7 @@ namespace project
             this.checkBox2.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox2.Location = new System.Drawing.Point(196, 145);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(50, 27);
+            this.checkBox2.Size = new System.Drawing.Size(60, 33);
             this.checkBox2.TabIndex = 19;
             this.checkBox2.Text = "Yes";
             this.checkBox2.UseVisualStyleBackColor = true;
@@ -283,7 +283,7 @@ namespace project
             this.checkBox3.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox3.Location = new System.Drawing.Point(196, 173);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(50, 27);
+            this.checkBox3.Size = new System.Drawing.Size(60, 33);
             this.checkBox3.TabIndex = 20;
             this.checkBox3.Text = "Yes";
             this.checkBox3.UseVisualStyleBackColor = true;
@@ -294,7 +294,7 @@ namespace project
             this.checkBox4.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox4.Location = new System.Drawing.Point(196, 281);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(50, 27);
+            this.checkBox4.Size = new System.Drawing.Size(60, 33);
             this.checkBox4.TabIndex = 21;
             this.checkBox4.Text = "Yes";
             this.checkBox4.UseVisualStyleBackColor = true;
@@ -305,7 +305,7 @@ namespace project
             this.checkBox5.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox5.Location = new System.Drawing.Point(196, 309);
             this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(50, 27);
+            this.checkBox5.Size = new System.Drawing.Size(60, 33);
             this.checkBox5.TabIndex = 22;
             this.checkBox5.Text = "Yes";
             this.checkBox5.UseVisualStyleBackColor = true;
@@ -316,7 +316,7 @@ namespace project
             this.checkBox6.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox6.Location = new System.Drawing.Point(196, 334);
             this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(50, 27);
+            this.checkBox6.Size = new System.Drawing.Size(60, 33);
             this.checkBox6.TabIndex = 23;
             this.checkBox6.Text = "Yes";
             this.checkBox6.UseVisualStyleBackColor = true;
@@ -327,7 +327,7 @@ namespace project
             this.checkBox7.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox7.Location = new System.Drawing.Point(196, 365);
             this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(50, 27);
+            this.checkBox7.Size = new System.Drawing.Size(60, 33);
             this.checkBox7.TabIndex = 24;
             this.checkBox7.Text = "Yes";
             this.checkBox7.UseVisualStyleBackColor = true;
@@ -338,7 +338,7 @@ namespace project
             this.checkBox8.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox8.Location = new System.Drawing.Point(196, 393);
             this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(50, 27);
+            this.checkBox8.Size = new System.Drawing.Size(60, 33);
             this.checkBox8.TabIndex = 25;
             this.checkBox8.Text = "Yes";
             this.checkBox8.UseVisualStyleBackColor = true;
@@ -349,7 +349,7 @@ namespace project
             this.checkBox9.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox9.Location = new System.Drawing.Point(196, 253);
             this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(50, 27);
+            this.checkBox9.Size = new System.Drawing.Size(60, 33);
             this.checkBox9.TabIndex = 26;
             this.checkBox9.Text = "Yes";
             this.checkBox9.UseVisualStyleBackColor = true;
@@ -360,7 +360,7 @@ namespace project
             this.checkBox10.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox10.Location = new System.Drawing.Point(426, 421);
             this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(50, 27);
+            this.checkBox10.Size = new System.Drawing.Size(60, 33);
             this.checkBox10.TabIndex = 27;
             this.checkBox10.Text = "Yes";
             this.checkBox10.UseVisualStyleBackColor = true;
@@ -371,7 +371,7 @@ namespace project
             this.checkBox11.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox11.Location = new System.Drawing.Point(385, 499);
             this.checkBox11.Name = "checkBox11";
-            this.checkBox11.Size = new System.Drawing.Size(50, 27);
+            this.checkBox11.Size = new System.Drawing.Size(60, 33);
             this.checkBox11.TabIndex = 28;
             this.checkBox11.Text = "Yes";
             this.checkBox11.UseVisualStyleBackColor = true;
@@ -382,7 +382,7 @@ namespace project
             this.checkBox12.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox12.Location = new System.Drawing.Point(385, 527);
             this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(50, 27);
+            this.checkBox12.Size = new System.Drawing.Size(60, 33);
             this.checkBox12.TabIndex = 29;
             this.checkBox12.Text = "Yes";
             this.checkBox12.UseVisualStyleBackColor = true;
@@ -393,7 +393,7 @@ namespace project
             this.checkBox13.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox13.Location = new System.Drawing.Point(385, 555);
             this.checkBox13.Name = "checkBox13";
-            this.checkBox13.Size = new System.Drawing.Size(50, 27);
+            this.checkBox13.Size = new System.Drawing.Size(60, 33);
             this.checkBox13.TabIndex = 30;
             this.checkBox13.Text = "Yes";
             this.checkBox13.UseVisualStyleBackColor = true;
@@ -404,7 +404,7 @@ namespace project
             this.checkBox14.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox14.Location = new System.Drawing.Point(319, 117);
             this.checkBox14.Name = "checkBox14";
-            this.checkBox14.Size = new System.Drawing.Size(46, 27);
+            this.checkBox14.Size = new System.Drawing.Size(57, 33);
             this.checkBox14.TabIndex = 31;
             this.checkBox14.Text = "No";
             this.checkBox14.UseVisualStyleBackColor = true;
@@ -415,7 +415,7 @@ namespace project
             this.checkBox15.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox15.Location = new System.Drawing.Point(319, 145);
             this.checkBox15.Name = "checkBox15";
-            this.checkBox15.Size = new System.Drawing.Size(46, 27);
+            this.checkBox15.Size = new System.Drawing.Size(57, 33);
             this.checkBox15.TabIndex = 32;
             this.checkBox15.Text = "No";
             this.checkBox15.UseVisualStyleBackColor = true;
@@ -426,7 +426,7 @@ namespace project
             this.checkBox16.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox16.Location = new System.Drawing.Point(319, 173);
             this.checkBox16.Name = "checkBox16";
-            this.checkBox16.Size = new System.Drawing.Size(46, 27);
+            this.checkBox16.Size = new System.Drawing.Size(57, 33);
             this.checkBox16.TabIndex = 33;
             this.checkBox16.Text = "No";
             this.checkBox16.UseVisualStyleBackColor = true;
@@ -437,7 +437,7 @@ namespace project
             this.checkBox17.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox17.Location = new System.Drawing.Point(319, 253);
             this.checkBox17.Name = "checkBox17";
-            this.checkBox17.Size = new System.Drawing.Size(46, 27);
+            this.checkBox17.Size = new System.Drawing.Size(57, 33);
             this.checkBox17.TabIndex = 34;
             this.checkBox17.Text = "No";
             this.checkBox17.UseVisualStyleBackColor = true;
@@ -448,7 +448,7 @@ namespace project
             this.checkBox18.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox18.Location = new System.Drawing.Point(319, 281);
             this.checkBox18.Name = "checkBox18";
-            this.checkBox18.Size = new System.Drawing.Size(46, 27);
+            this.checkBox18.Size = new System.Drawing.Size(57, 33);
             this.checkBox18.TabIndex = 35;
             this.checkBox18.Text = "No";
             this.checkBox18.UseVisualStyleBackColor = true;
@@ -459,7 +459,7 @@ namespace project
             this.checkBox19.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox19.Location = new System.Drawing.Point(319, 309);
             this.checkBox19.Name = "checkBox19";
-            this.checkBox19.Size = new System.Drawing.Size(46, 27);
+            this.checkBox19.Size = new System.Drawing.Size(57, 33);
             this.checkBox19.TabIndex = 36;
             this.checkBox19.Text = "No";
             this.checkBox19.UseVisualStyleBackColor = true;
@@ -470,7 +470,7 @@ namespace project
             this.checkBox20.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox20.Location = new System.Drawing.Point(319, 337);
             this.checkBox20.Name = "checkBox20";
-            this.checkBox20.Size = new System.Drawing.Size(46, 27);
+            this.checkBox20.Size = new System.Drawing.Size(57, 33);
             this.checkBox20.TabIndex = 37;
             this.checkBox20.Text = "No";
             this.checkBox20.UseVisualStyleBackColor = true;
@@ -481,7 +481,7 @@ namespace project
             this.checkBox21.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox21.Location = new System.Drawing.Point(319, 365);
             this.checkBox21.Name = "checkBox21";
-            this.checkBox21.Size = new System.Drawing.Size(46, 27);
+            this.checkBox21.Size = new System.Drawing.Size(57, 33);
             this.checkBox21.TabIndex = 38;
             this.checkBox21.Text = "No";
             this.checkBox21.UseVisualStyleBackColor = true;
@@ -492,7 +492,7 @@ namespace project
             this.checkBox22.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox22.Location = new System.Drawing.Point(319, 393);
             this.checkBox22.Name = "checkBox22";
-            this.checkBox22.Size = new System.Drawing.Size(46, 27);
+            this.checkBox22.Size = new System.Drawing.Size(57, 33);
             this.checkBox22.TabIndex = 39;
             this.checkBox22.Text = "No";
             this.checkBox22.UseVisualStyleBackColor = true;
@@ -503,7 +503,7 @@ namespace project
             this.checkBox23.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox23.Location = new System.Drawing.Point(525, 421);
             this.checkBox23.Name = "checkBox23";
-            this.checkBox23.Size = new System.Drawing.Size(46, 27);
+            this.checkBox23.Size = new System.Drawing.Size(57, 33);
             this.checkBox23.TabIndex = 40;
             this.checkBox23.Text = "No";
             this.checkBox23.UseVisualStyleBackColor = true;
@@ -514,7 +514,7 @@ namespace project
             this.checkBox24.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox24.Location = new System.Drawing.Point(479, 499);
             this.checkBox24.Name = "checkBox24";
-            this.checkBox24.Size = new System.Drawing.Size(46, 27);
+            this.checkBox24.Size = new System.Drawing.Size(57, 33);
             this.checkBox24.TabIndex = 41;
             this.checkBox24.Text = "No";
             this.checkBox24.UseVisualStyleBackColor = true;
@@ -525,7 +525,7 @@ namespace project
             this.checkBox25.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox25.Location = new System.Drawing.Point(479, 527);
             this.checkBox25.Name = "checkBox25";
-            this.checkBox25.Size = new System.Drawing.Size(46, 27);
+            this.checkBox25.Size = new System.Drawing.Size(57, 33);
             this.checkBox25.TabIndex = 42;
             this.checkBox25.Text = "No";
             this.checkBox25.UseVisualStyleBackColor = true;
@@ -536,7 +536,7 @@ namespace project
             this.checkBox26.Font = new System.Drawing.Font("Sitka Banner", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox26.Location = new System.Drawing.Point(479, 555);
             this.checkBox26.Name = "checkBox26";
-            this.checkBox26.Size = new System.Drawing.Size(46, 27);
+            this.checkBox26.Size = new System.Drawing.Size(57, 33);
             this.checkBox26.TabIndex = 43;
             this.checkBox26.Text = "No";
             this.checkBox26.UseVisualStyleBackColor = true;
@@ -560,6 +560,7 @@ namespace project
             this.button1.TabIndex = 45;
             this.button1.Text = "<Previous";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -583,10 +584,11 @@ namespace project
             this.button3.TabIndex = 47;
             this.button3.Text = "Next>";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // symptoms
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 29F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 36F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.ClientSize = new System.Drawing.Size(635, 749);
