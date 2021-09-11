@@ -19,6 +19,12 @@
     <Compile Update="Governmentcenter.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="pic_symptoms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RulesnRegulations.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="symptoms.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -35,6 +41,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Travel_with_Covid_19_FAQ_s.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vaccine.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="welcome.cs">

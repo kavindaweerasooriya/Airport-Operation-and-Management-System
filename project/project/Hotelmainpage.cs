@@ -24,9 +24,9 @@ namespace project
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form1 fm = new Form1();
+            Vaccine vac_page = new Vaccine();
             this.Hide();
-            fm.Show();
+            vac_page.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)

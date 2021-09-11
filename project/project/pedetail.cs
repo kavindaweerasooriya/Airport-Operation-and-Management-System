@@ -76,9 +76,9 @@ namespace project
                 MessageBox.Show("plese chek the details and tick");
             }
 
-            symptoms sym = new symptoms();
+            RulesnRegulations RNR = new RulesnRegulations();
             this.Hide();
-            sym.Show();
+            RNR.Show();
 
 
         }

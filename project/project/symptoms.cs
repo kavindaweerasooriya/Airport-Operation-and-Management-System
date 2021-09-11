@@ -43,9 +43,9 @@ namespace project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            pedetail p_page = new pedetail();
+            pic_symptoms pic = new pic_symptoms();
             this.Hide();
-            p_page.Show();
+            pic.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
