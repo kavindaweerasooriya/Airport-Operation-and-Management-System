@@ -31,8 +31,8 @@ namespace project
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Vaccine));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.label3 = new System.Windows.Forms.Label();
@@ -47,16 +47,25 @@ namespace project
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.dateTimePicker1);
             this.panel1.Controls.Add(this.button1);
-            this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.radioButton2);
             this.panel1.Controls.Add(this.radioButton1);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Location = new System.Drawing.Point(70, 68);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(525, 235);
+            this.panel1.Size = new System.Drawing.Size(525, 213);
             this.panel1.TabIndex = 0;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(245, 95);
+            this.dateTimePicker1.MaxDate = new System.DateTime(2021, 12, 31, 0, 0, 0, 0);
+            this.dateTimePicker1.MinDate = new System.DateTime(2020, 12, 31, 0, 0, 0, 0);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(250, 27);
+            this.dateTimePicker1.TabIndex = 10;
             // 
             // button1
             // 
@@ -68,17 +77,6 @@ namespace project
             this.button1.Text = "BACK";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.Gainsboro;
-            this.textBox1.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.Location = new System.Drawing.Point(288, 100);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.PlaceholderText = "dd/mm/yy";
-            this.textBox1.Size = new System.Drawing.Size(140, 25);
-            this.textBox1.TabIndex = 4;
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // radioButton2
             // 
@@ -154,7 +152,7 @@ namespace project
             // 
             this.panel2.Controls.Add(this.button2);
             this.panel2.Controls.Add(this.label5);
-            this.panel2.Location = new System.Drawing.Point(70, 334);
+            this.panel2.Location = new System.Drawing.Point(70, 302);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(525, 131);
             this.panel2.TabIndex = 1;
@@ -177,10 +175,11 @@ namespace project
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(685, 500);
+            this.ClientSize = new System.Drawing.Size(685, 473);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Vaccine";
             this.Text = "Vaccine";
             this.panel1.ResumeLayout(false);
@@ -195,7 +194,6 @@ namespace project
         #endregion
 
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.Label label3;
@@ -205,5 +203,6 @@ namespace project
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }

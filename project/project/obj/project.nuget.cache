@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "1tHAcWucUY4UDpe7bH5/AeOozm+WiZVrbVVgC9usMJo+Yg8mDrAqWArqLBEUc4dNtqS3y6zprCOGnfch2r+TSg==",
+  "dgSpecHash": "s90EyiIETmOtQvF3Izrb5uKBo9R7snW7U4tGXyxd2wNXn10FjI9exXRC5NE0ZP6SdLWncow5kaRacofkhUVB1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Airport-Operation-and-Management-System-with-New-Normal-Covid-19\\project\\project\\project.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\new\\project\\project\\project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

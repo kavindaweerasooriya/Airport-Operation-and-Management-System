@@ -70,6 +70,8 @@ namespace project
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(165)))), ((int)(((byte)(192)))), ((int)(((byte)(196)))));
+            this.panel2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel2.BackgroundImage")));
+            this.panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel2.Controls.Add(this.lblclosing);
             this.panel2.Controls.Add(this.lblclose);
             this.panel2.Controls.Add(this.pictureBox1);
@@ -84,12 +86,13 @@ namespace project
             this.lblclosing.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblclosing.AutoSize = true;
-            this.lblclosing.Font = new System.Drawing.Font("Consolas", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblclosing.Location = new System.Drawing.Point(613, 9);
+            this.lblclosing.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblclosing.ForeColor = System.Drawing.Color.Maroon;
+            this.lblclosing.Location = new System.Drawing.Point(576, 24);
             this.lblclosing.Name = "lblclosing";
-            this.lblclosing.Size = new System.Drawing.Size(39, 43);
+            this.lblclosing.Size = new System.Drawing.Size(69, 24);
             this.lblclosing.TabIndex = 2;
-            this.lblclosing.Text = "x";
+            this.lblclosing.Text = "START";
             this.lblclosing.Click += new System.EventHandler(this.lblclosing_Click);
             // 
             // lblclose
@@ -106,6 +109,7 @@ namespace project
             // 
             // pictureBox1
             // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(6, 0);

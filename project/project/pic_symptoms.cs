@@ -23,11 +23,17 @@ namespace project
 
         }
 
+        string passport_ID;
         private void button2_Click(object sender, EventArgs e)
         {
-            symptoms sym = new symptoms();
+            symptoms sym = new symptoms(passport_ID);
             this.Hide();
             sym.Show();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

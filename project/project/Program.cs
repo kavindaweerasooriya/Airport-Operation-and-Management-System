@@ -17,7 +17,7 @@ namespace project
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new welcome());
+            Application.Run(new Form1());
         }
     }
 }

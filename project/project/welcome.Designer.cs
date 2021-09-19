@@ -35,7 +35,7 @@ namespace project
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.button1.BackColor = System.Drawing.SystemColors.ButtonShadow;
             resources.ApplyResources(this.button1, "button1");
             this.button1.Name = "button1";
             this.button1.UseVisualStyleBackColor = false;
@@ -46,6 +46,7 @@ namespace project
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.button1);
+            this.DoubleBuffered = true;
             this.Name = "welcome";
             this.Load += new System.EventHandler(this.welcome_Load);
             this.ResumeLayout(false);

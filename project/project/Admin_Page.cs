@@ -22,7 +22,7 @@ namespace project
             string e_name = txtname.Text;
             string password = txtpwrd.Text;
 
-            if (e_name == "sunimal" && password == "12345")
+            if (e_name == "user20" && password == "12345")
             {
                 this.Hide();
                 db.Show();
@@ -44,6 +44,11 @@ namespace project
         {
             txtname.Clear();
             txtpwrd.Clear();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
